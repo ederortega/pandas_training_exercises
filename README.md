@@ -3,10 +3,10 @@ A list of exercises for Pandas training.
 
 ## The exercises are arranged in four chapters
 
-1- Data description, ordering, filtering and columns addition
-2- Aggregation
-3- Índex and merging
-4- Visualization with matplotlib
+1. Data description, ordering, filtering and columns addition
+2. Aggregation
+3. Índex and merging
+4. Visualization with matplotlib
 
 ## Configuration for python 3
 
